@@ -48,7 +48,7 @@ Open CoreDataDemo.xcodeproj
 
 
 ## Screenshots
-![App Screenshot](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9c1a1819-7bf6-4ed1-a334-b439f414c3dc/E56D0BE9-252B-4283-9670-DDD6B0B8F510.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220527%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220527T075551Z&X-Amz-Expires=86400&X-Amz-Signature=5ebedd05f5c0c6179b81905363300e3f97eb529fdcd32c7cb0b399ea332a0f9b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22E56D0BE9-252B-4283-9670-DDD6B0B8F510.png%22&x-id=GetObject)
+![App Screenshot]([https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9c1a1819-7bf6-4ed1-a334-b439f414c3dc/E56D0BE9-252B-4283-9670-DDD6B0B8F510.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220527%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220527T075551Z&X-Amz-Expires=86400&X-Amz-Signature=5ebedd05f5c0c6179b81905363300e3f97eb529fdcd32c7cb0b399ea332a0f9b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22E56D0BE9-252B-4283-9670-DDD6B0B8F510.png%22&x-id=GetObject](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a20306a4-6290-420d-b131-363a0533c815/EF9AD5A7-53BF-45FD-95FF-B36D6FFB26FF.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220527%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220527T081653Z&X-Amz-Expires=86400&X-Amz-Signature=db63d8b49d92c2db996fe6d46be31fcfeafbf95912498874736601d4e8f3b162&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22EF9AD5A7-53BF-45FD-95FF-B36D6FFB26FF.png%22&x-id=GetObject))
 
 
 
