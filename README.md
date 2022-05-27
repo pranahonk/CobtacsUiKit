@@ -48,7 +48,7 @@ Open CoreDataDemo.xcodeproj
 
 
 ## Screenshots
-![App Screenshot](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a20306a4-6290-420d-b131-363a0533c815/EF9AD5A7-53BF-45FD-95FF-B36D6FFB26FF.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220527%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220527T081653Z&X-Amz-Expires=86400&X-Amz-Signature=db63d8b49d92c2db996fe6d46be31fcfeafbf95912498874736601d4e8f3b162&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22EF9AD5A7-53BF-45FD-95FF-B36D6FFB26FF.png%22&x-id=GetObject)
+![App Screenshot](/CoreDataDemo/Assets.xcassets/screenshot-1.imageset/screenshot-1.png)
 
 
 
