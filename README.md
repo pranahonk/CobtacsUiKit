@@ -135,7 +135,6 @@ Use this space to list resources you find helpful and would like to give credit 
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+**Client:** UiKit, Coredata, Swift
 
-**Server:** Node, Express
 
