@@ -49,7 +49,7 @@ Open CoreDataDemo.xcodeproj
 
 ## Screenshots
 ![App Screenshot](/CoreDataDemo/Assets.xcassets/screenshot-1.imageset/screenshot-1.png)
-![App Screenshot](/CoreDataDemo/Assets.xcassets/screenshot-1.imageset/screenshot-2.png)
+![App Screenshot](/CoreDataDemo/Assets.xcassets/screenshot-2.imageset/screenshot-2.png)
 
 
 
