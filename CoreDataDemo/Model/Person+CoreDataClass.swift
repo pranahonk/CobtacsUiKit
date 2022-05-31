@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import CoreData
+import CoreData 
 
 @objc(Person)
 public class Person: NSManagedObject {
